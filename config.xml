@@ -17,4 +17,7 @@
 		Lasse Salzmann
 	</author>
 
+	<preference name="orientation" value="portrait" />
+
+
 </widget>
